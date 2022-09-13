@@ -20,8 +20,8 @@ def banner():
 	{re}╚═╝{cy}└─┘ ┴ └─┘┴
 	
 	           Version : 1.01
-	{re}Subscribe Mr Juice OFC on Youtube
-	{cy}www.youtube.com/c/TermuxProfessorYT
+	{re}Check Mr Juice Telegram bot 
+	{cy}http://t.me/HackersBot_2022bot
 	""")
 banner()
 print(gr+"[+] Installing requierments ...")
@@ -43,4 +43,4 @@ setup.close()
 print(gr+"[+] setup complete !")
 print(gr+"[+] now you can run any tool !")
 print(gr+"[+] make sure to read docs 4 installation & api setup")
-print(gr+"[+] https://github.com/termuxprofessor/TeleGram-Scraper-Adder/blob/master/README.md")
+print(gr+"[+] https://github.com/mrjuice01/TeleGram-Scraper-Adder/blob/master/README.md")
