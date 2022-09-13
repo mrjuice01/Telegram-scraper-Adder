@@ -15,7 +15,7 @@
   Telegram Scraper Adder
 </p>
 <p align="center">
-  wtf, atlest just fuking ⭐ star ⭐ it
+  I need a ⭐ star ⭐ for my hard work
 </p>
 
 ---
