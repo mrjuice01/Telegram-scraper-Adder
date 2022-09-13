@@ -34,7 +34,7 @@
 
 `$ pkg install git`
 
-`$ git clone [htt](https://github.com/mrjuice01/Telegram-scraper-Adder`]
+`$ git clone [https://github.com/mrjuice01/Telegram-scraper-Adder`]
 
 `$ cd Telegram-Scraper-Adder`
 
